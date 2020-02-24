@@ -1,6 +1,6 @@
 # The electrophysiology of Vegetable language: A replication study
 
-TODO write the paper structure
+TODO write the structure of the paper
 
 # References
 
